@@ -1,0 +1,32 @@
+/* #navbar{
+    width: 90%;
+    margin: 10px;
+border: 1px solid black;
+margin: auto;
+
+}; */
+#search_input{
+    width: 90%;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid teal;
+    padding: 5px;
+    font-size: medium;
+}
+#append{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+#box1{
+    display: flex;
+    /* width: 100px;
+    height: 200px;
+} */
+gap: 100px;
+border: 2px solid gray;
+}
+img{
+height: 200px;
+width: 300px;
+}
